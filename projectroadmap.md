@@ -13,19 +13,25 @@ Project Roadmap
     **[Nathan] - *Choose project related repository to clone into Team Repository for usage as application foundation.*
     
 05)  **__DONE__\
-    **[Nathan] - *Nathan – Generate beginning code from cloned repository and establish desired modifications for working code.*
+    **[Nathan] - *Generate beginning code from cloned repository and establish desired modifications for working code.*
     
-06)  **__NOT-DONE__\
+06)  **__DONE__\
+    **[Nathan] - *Create marketing slide with PowerPoint.*
+
+07)  **__DONE__\
     **[Nathan] - *Integrate desired modifications from beginning code to generate working code.*
     
-07)  **__NOT-DONE__\
+08)  **__NOT-DONE__\
     **[Nathan] - *Analyze and modify working code into developed final code.*
     
-08)  **__NOT-DONE__\
+09)  **__NOT-DONE__\
     **[Nathan] - *Upload final code via Team Code Repository.*
     
-09)  **__NOT-DONE__\
+10)  **__NOT-DONE__\
     **[Nathan] - *Create software marketing slide with PowerPoint and upload via Team Repository.*
     
-10)  **__NOT-DONE__\
+11)  **__NOT-DONE__\
     **[Nathan] - *Submit final code via Team Repository.*
+
+12)  **__NOT-DONE__\
+    **[Nathan] - *Convert developed application with Beeware to release on ios platform.*

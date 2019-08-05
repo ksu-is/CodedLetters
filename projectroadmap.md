@@ -21,17 +21,14 @@ Project Roadmap
 07)  **__DONE__\
     **[Nathan] - *Integrate desired modifications from beginning code to generate working code.*
     
-08)  **__NOT-DONE__\
+08)  **__DONE__\
     **[Nathan] - *Analyze and modify working code into developed final code.*
     
-09)  **__NOT-DONE__\
-    **[Nathan] - *Upload final code via Team Code Repository.*
+09)  **__DONE__\
+    **[Nathan] - *Submit final code via Team Code Repository.*
     
 10)  **__NOT-DONE__\
-    **[Nathan] - *Create software marketing slide with PowerPoint and upload via Team Repository.*
+    **[Nathan] - *Create Final Presentation slide with PowerPoint and upload via Team Repository.*
     
 11)  **__NOT-DONE__\
-    **[Nathan] - *Submit final code via Team Repository.*
-
-12)  **__NOT-DONE__\
-    **[Nathan] - *Convert developed application with Beeware to release on ios platform.*
+    **[Nathan] - *Cer

@@ -31,4 +31,4 @@ Project Roadmap
     **[Nathan] - *Create Final Presentation slide with PowerPoint and upload via Team Repository.*
     
 11)  **__NOT-DONE__\
-    **[Nathan] - *Cer
+    **[Nathan] - *Convert developed application with Beeware to release on ios platform.*
